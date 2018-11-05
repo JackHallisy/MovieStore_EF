@@ -1,0 +1,11 @@
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\bin\Debug\MovieStore.Business.dll.config
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\bin\Debug\MovieStore.Business.dll
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\bin\Debug\MovieStore.Business.pdb
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\bin\Debug\EntityFramework.dll
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\bin\Debug\EntityFramework.xml
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.csproj.CoreCompileInputs.cache
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.csproj.CopyComplete
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.dll
+C:\CC6\Homework\HW14\MovieStore\MovieStore.Business\obj\Debug\MovieStore.Business.pdb
